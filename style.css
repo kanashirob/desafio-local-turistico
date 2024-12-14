@@ -106,3 +106,17 @@ ul li::marker{
 li{
     font-weight: bold;
 }
+footer img{
+    vertical-align: middle;
+}
+footer {
+    color: #F0E8C2;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+#closing-text{
+    margin-top: 4px;
+    text-align: center;
+    font-size: 16px;
+}
