@@ -32,8 +32,13 @@ h1{
     font-weight: bold;
 }
 
+h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+
 #head-picture{
-    border-radius: 24px;
+    border-radius: 28px;
 }
 
 .subtitles{
@@ -47,4 +52,13 @@ h1{
     height: 1px;
     margin: 36px 0;
     background-color: #d9d9d9;
+}
+
+#content-page{
+    padding-top: 24px;
+}
+
+.paragraphs{
+    font-size: 16px;
+    font-style: normal;
 }
